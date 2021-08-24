@@ -12,7 +12,7 @@ Votre réponse doit comporter 2 éléments :
 
 * La solution technique elle-même
 * Un Google Doc (1 page maximum en taille 12) expliquant :
-  * Votre compréhension du problème
+  * Votre analyse du problème : quelles sont les zones d'ombre et comment vous les abordez
   * Votre choix d'outils et/ou technologies
   * Les difficultés que vous avez rencontrées
 
@@ -27,10 +27,10 @@ Dans le contexte sanitaire actuel, les restaurants et bars doivent proposer à l
 
 Votre solution doit comporter 2 éléments :
 * Un formulaire permettant d'entrer les coordonnées de l'établissement et d'uploader le menu en PDF
-* Un système de génération de QR codes uniques et qui renvoient vers le menu PDF de l'établissement.
+* Un système de génération de QR codes qui renvoient vers le menu PDF de l'établissement.
 
 Chaque établissement doit avoir son propre QR code et doit pouvoir l'imprimer après l'avoir uploadé.
-Nous vous laissons définir les coordonnées à demander dans le formulaire.
+Nous vous laissons définir les coordonnées de l'établissement à demander dans le formulaire.
 
 S'il vous reste du temps, vous pouvez explorer une ou plusieurs fonctionnalités avancées :
 * L'établissement reçoit son QR code par email
