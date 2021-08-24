@@ -11,7 +11,8 @@ Nous cherchons à évaluer autant votre **compréhension du problème** que votr
 Votre réponse doit comporter 2 éléments :
 
 * La solution technique elle-même
-* Un Google Doc (1 page maximum en taille 12) expliquant :
+* Un Google Doc (court) expliquant :
+
   * Votre analyse du problème : quelles sont les zones d'ombre et comment vous les abordez
   * Votre choix d'outils et/ou technologies
   * Les difficultés que vous avez rencontrées
