@@ -18,7 +18,7 @@ Votre réponse doit comporter 2 éléments :
 
 Votre solution technique doit être développée en Ruby ou Javascript et peut utiliser un framework (Rails, Sinatra, Express, Next, etc.). Vous pouvez également vous appuyer sur des outils *no code* s'ils vous permettent de gagner du temps sans impacter l'expérience utilisateur. Dans tous les cas, votre choix devra être justifié dans le Google Doc.
 
-Si votre solution inclut un programme ou une application, vous créerez un repository Github privé et inviterez **pierredemilly** en lecture.
+Si votre solution inclut un programme ou une application, vous créerez un repository Github privé et inviterez **@pierredemilly** en lecture.
 Si votre solution inclut un outil SaaS ou no-code, vous indiquerez dans votre Google Doc les liens et/ou identifiants pour y accéder.
 
 ## Problème
